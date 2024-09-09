@@ -1,4 +1,4 @@
-Hi 👋 My name is Chisanupong Limsakul
+Hello 👋 My name is Chisanupong Limsakul
 =====================================
 
 Front-end developer
