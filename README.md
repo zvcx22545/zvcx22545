@@ -1,17 +1,18 @@
 <h1 align="center">My Profile</h1>
+
 Hello 👋 My name is Chisanupong Limsakul
 =====================================
 
-Front-end developer
+:globe_with_meridians: Front-end developer
 -------------------
 
 My skill : Html, CSS, Javascript, PHP, MySql ( basic ) I love working with ux/ui and always learning new tools.
 
-* 🌍  I'm based in Thailand
+* 🌍  I'm thai nationality.
 * ✉️  You can contact me at [chisanupong.limsakul@gmail.com](mailto:chisanupong.limsakul@gmail.com)
 * 🧠  I'm learning Next.JS and TypeScript
 
-### Skills
+### MY SKILLS
 
 
 <p align="left">
