@@ -1,6 +1,6 @@
 <h1 align="center">About Me</h1>
 
-## Hello 👋 My name is Chisanupong Limsakul
+## Hi There 👋 My name is Chisanupong Limsakul
 
 :globe_with_meridians: Front-end developer
 -------------------
