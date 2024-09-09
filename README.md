@@ -6,7 +6,7 @@ Hello 👋 My name is Chisanupong Limsakul
 :globe_with_meridians: Front-end developer
 -------------------
 
-My skill : Html, CSS, Javascript, PHP, MySql ( basic ) I love working with ux/ui and always learning new tools.
+**Inspiration :**  Html, CSS, Javascript, PHP, MySql ( basic ) I love working with ux/ui and always learning new tools.
 
 * 🌍  I'm thai nationality.
 * ✉️  You can contact me at [chisanupong.limsakul@gmail.com](mailto:chisanupong.limsakul@gmail.com)
