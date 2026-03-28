@@ -2,7 +2,7 @@
 
 ## Hi There 👋 My name is Chisanupong Limsakul
 
-:globe_with_meridians: Front-end developer
+:globe_with_meridians: Front-end developer / Full Stack Developer
 -------------------
 
 **Inspiration :**  Html, CSS, Javascript, PHP, MySql ( basic ) I love working with ux/ui and always learning new tools.
